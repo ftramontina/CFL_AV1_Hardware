@@ -22,4 +22,4 @@ SLow version
      - Easier to understand 
      - 480MHz, 45nm 
 
-
+The paper inside Block Diagram folder is related to the Slow Version. The paper related to the 4k / 8k is being prepared. 
